@@ -14,7 +14,7 @@ A simple AI-based logic is used to simulate fraud detection.
 - 👁️ Protected routes with route guards
 - 📡 RESTful API integration between React & Spring Boot
 - ⚙️ CORS, Spring Security configuration
-- 🤖 Basic AI logic for fraud detection (optional)
+- 🤖 Basic AI-powered chatbot
 
 ---
 
