@@ -29,6 +29,7 @@ A simple AI-based logic is used to simulate fraud detection.
 ### Backend
 - Java 17
 - Spring Boot
+- Spring MVC
 - Spring Security
 - PostgreSQL (or H2 for testing)
 - JWT
