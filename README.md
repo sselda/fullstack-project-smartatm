@@ -1,8 +1,9 @@
 # 💳 SmartATM - Full Stack ATM Simulation
 
-SmartATM is a full-stack ATM simulation web application built with **React** (frontend) and **Spring Boot** (backend).  
+SmartATM is a full-stack ATM simulation web application built with React (frontend) and Spring Boot (backend).  
 It allows users to register, login, deposit or withdraw money via QR codes, and view transaction history.  
-A simple AI-based logic is used to simulate fraud detection.
+A simple **AI-powered chatbot is included to improve user interaction.
+
 
 ---
 
