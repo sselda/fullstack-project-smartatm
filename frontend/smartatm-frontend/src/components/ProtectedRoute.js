@@ -6,7 +6,7 @@ function ProtectedRoute({ children }) {
     const location = useLocation();
 
     if(!token) {
-        console.log("Kullanıcı girişi yok, login sayfasına yönlendiriliyor:", location.pathname);
+        console.log("No user login, redirecting to the login page:", location.pathname);
         return <Navigate to="/login" state={{ from: location}} replace />
     }
     return children;
