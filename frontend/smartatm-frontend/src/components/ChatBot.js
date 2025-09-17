@@ -30,7 +30,7 @@ function ChatBot() {
       {
         headers: {
           'Content-Type': 'application/json',
-          Authorization: `Bearer ${token}` // ✅ Header’a token’ı ekle
+          Authorization: `Bearer ${token}`
         },
       }
     );
